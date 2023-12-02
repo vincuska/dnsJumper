@@ -1,2 +1,2 @@
 # dnsJumper
-dnsJumper
+dnsJumper remade in Python
