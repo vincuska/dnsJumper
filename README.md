@@ -1,5 +1,5 @@
 # dnsJumper
-[dnsJumper](https://www.sordum.org/7952/dns-jumper-v2/) remade in Python
+[dnsJumper](https://www.sordum.org/7952/dns-jumper-v2/) "Fastest DNS" feature remade in Python
 
 ## Features
 
