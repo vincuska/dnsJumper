@@ -1,5 +1,5 @@
 # dnsJumper
-dnsJumper remade in Python
+[dnsJumper](https://www.sordum.org/7952/dns-jumper-v2/) remade in Python
 
 ## Features
 
